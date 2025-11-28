@@ -1,5 +1,9 @@
 # ZK Stealth Protocol
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/e2da02_e4de428513494e418d280603cbeccdad~mv2.png" alt="ZK Stealth Logo" width="200"/>
+</p>
+
 **The World's First Invisible On-Chain Execution Layer**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -7,7 +11,7 @@
 [![Coverage](https://img.shields.io/badge/coverage-98%25-brightgreen.svg)]()
 [![Audit](https://img.shields.io/badge/audit-Trail%20of%20Bits-purple.svg)]()
 
-> **Automated by [Eli Ben-Sasson](https://x.com/EliBenSasson)**
+---
 
 ## Overview
 
@@ -325,10 +329,10 @@ MIT License - see [LICENSE](./LICENSE)
 ---
 
 **Website:** https://www.zkstealthsol.xyz/  
-**Documentation:** https://docs.zkstealth.network  
-**Twitter:** [@ZKStealth](https://twitter.com/zkstealth)  
-**Discord:** https://discord.gg/zkstealth
+**Twitter:** [@ZKStealth](https://twitter.com/zkstealth)
 
 ---
 
-**Automated by [Eli Ben-Sasson](https://x.com/EliBenSasson)**
+<p align="center">
+  <strong>Automated by <a href="https://x.com/EliBenSasson">Eli Ben-Sasson</a></strong>
+</p>
