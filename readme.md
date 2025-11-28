@@ -329,10 +329,5 @@ MIT License - see [LICENSE](./LICENSE)
 ---
 
 **Website:** https://www.zkstealthsol.xyz/  
-**Twitter:** [@ZKStealth](https://twitter.com/zkstealth)
-
----
-
-<p align="center">
-  <strong>Automated by <a href="https://x.com/EliBenSasson">Eli Ben-Sasson</a></strong>
-</p>
+**Twitter:** [@ZKStealth](https://twitter.com/zkstealth)  
+**Automated by:** [Eli Ben-Sasson](https://x.com/EliBenSasson)
